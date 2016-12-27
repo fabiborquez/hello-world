@@ -1,2 +1,4 @@
 # hello-world
-Starting with Github... 
+
+Hello Humans!
+Just starting with Github today.
